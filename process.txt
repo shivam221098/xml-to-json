@@ -1,0 +1,14 @@
+Apply button x path ==== //div[@class='style__button-content___1aPle']
+
+proceed if apply.text == apply
+
+resume click class === style__pill___3uHDM style__small___1oG3P style__blue___mBOsr style__inverse___2z_Ei style__clickable___3a6Y8
+
+submit button x path === //span[contains(text(),'Submit Application')]
+
+close class === style__dismiss___Zotdc
+
+
+
+
+below pages  class === style__page___1UaFT
